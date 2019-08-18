@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aman748.github.io/Gridea_Blog</id>
     <title>Aman&apos;s Blog</title>
-    <updated>2019-08-18T19:46:39.733Z</updated>
+    <updated>2019-08-18T19:50:12.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aman748.github.io/Gridea_Blog"/>
     <link rel="self" href="https://aman748.github.io/Gridea_Blog/atom.xml"/>
@@ -16,22 +16,14 @@
         <link href="https://aman748.github.io/Gridea_Blog/post/java-8-zhong-de-lambda-biao-da-shi">
         </link>
         <updated>2019-08-18T19:34:58.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://pic3.zhimg.com/80/v2-c7cb18cbd37262ffad7b04e50fb13b92_hd.jpg" alt=""></p>
+        <content type="html"><![CDATA[<!--more-->
+<p><img src="https://pic3.zhimg.com/80/v2-c7cb18cbd37262ffad7b04e50fb13b92_hd.jpg" alt=""></p>
 <p>我们知道，对于一个Java变量，我们可以赋给其一个**“值”**。</p>
 <p><img src="https://pic3.zhimg.com/50/v2-ab6545c49383236a4af3f28a47886090_hd.jpg" alt=""></p>
 <p>如果你想把**“一块代码”**赋给一个Java变量，应该怎么做呢？</p>
 <p>比如，我想把右边那块代码，赋给一个叫做aBlockOfCode的Java变量：</p>
 <p><img src="https://pic2.zhimg.com/50/v2-1cc87e82fba0872c2cae3fee08e8fe41_hd.jpg" alt=""></p>
 <p>在Java 8之前，这个是做不到的。但是Java 8问世之后，利用Lambda特性，就可以做到了。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://pic3.zhimg.com/80/v2-c7cb18cbd37262ffad7b04e50fb13b92_hd.jpg" alt=""></p>
-<p>我们知道，对于一个Java变量，我们可以赋给其一个**“值”**。</p>
-<p><img src="https://pic3.zhimg.com/50/v2-ab6545c49383236a4af3f28a47886090_hd.jpg" alt=""></p>
-<p>如果你想把**“一块代码”**赋给一个Java变量，应该怎么做呢？</p>
-<p>比如，我想把右边那块代码，赋给一个叫做aBlockOfCode的Java变量：</p>
-<p><img src="https://pic2.zhimg.com/50/v2-1cc87e82fba0872c2cae3fee08e8fe41_hd.jpg" alt=""></p>
-<p>在Java 8之前，这个是做不到的。但是Java 8问世之后，利用Lambda特性，就可以做到了。</p>
-<!--more-->
 <p><img src="https://pic3.zhimg.com/50/v2-145a556d86806c3163391a13428e3f03_hd.jpg" alt=""></p>
 <p>当然，这个并不是一个很简洁的写法。所以，为了使这个赋值操作更加elegant, 我们可以移除一些没用的声明。</p>
 <p><img src="https://pic3.zhimg.com/50/v2-a712753b42972e094a548ae02fa82987_hd.jpg" alt=""></p>
