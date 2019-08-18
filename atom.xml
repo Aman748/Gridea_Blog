@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aman748.github.io/Gridea_Blog/</id>
     <title>Gridea</title>
-    <updated>2019-08-18T11:11:22.383Z</updated>
+    <updated>2019-08-18T11:15:50.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aman748.github.io/Gridea_Blog/"/>
     <link rel="self" href="https://aman748.github.io/Gridea_Blog//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://aman748.github.io/Gridea_Blog//images/avatar.png</logo>
     <icon>https://aman748.github.io/Gridea_Blog//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://aman748.github.io/Gridea_Blog//post/test</id>
+        <link href="https://aman748.github.io/Gridea_Blog//post/test">
+        </link>
+        <updated>2019-08-18T11:15:15.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://aman748.github.io/Gridea_Blog//post/hello-gridea</id>
